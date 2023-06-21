@@ -19,7 +19,7 @@
   </nav>
   <h2><b>Favorite Foods</b></h2>
   <ul>
-    <li>Pasta of any kinda</li>
+    <li>Pasta</li>
     <li>Avocado toast</li>
     <li>Gelato</li>
     <li>Dark chocolate</li>
@@ -43,7 +43,7 @@
 <h2>More About Me</h2>
       <details>
       <summary>My Childhood</summary>
-      I grew up in a small mountain town, and have always loved to hike
+      I grew up in a small mountain town, and love to hike
       </details>
     </div>
 
